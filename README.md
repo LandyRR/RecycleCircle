@@ -9,9 +9,9 @@ In the lock screen, click the notification banner to get started.
 
 If you select photo library to upload the photo, please select the first photo to upload.
 
-#Conference poster 
+# Conference poster 
 
-#Supporting promotional material
+# Supporting promotional material
 Website
 https://landys-recyclecircle.webflow.io/#works 
 
