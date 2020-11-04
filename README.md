@@ -10,6 +10,7 @@ In the lock screen, click the notification banner to get started.
 If you select photo library to upload the photo, please select the first photo to upload.
 
 # Conference poster 
+![poster](https://github.com/LandyRR/RecycleCircle/blob/main/Conference%20poster.jpg?raw=true)
 
 # Supporting promotional material
 Website
