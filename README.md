@@ -14,8 +14,8 @@ If you select photo library to upload the photo, please select the first photo t
 
 # Supporting promotional material
 Website
+
 https://landys-recyclecircle.webflow.io/#works 
 
-Brochure
-
 Social media
+![social](https://github.com/LandyRR/RecycleCircle/blob/main/social%20media.jpg?raw=true)
